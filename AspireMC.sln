@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireMC.AppHost", "AspireMC.AppHost\AspireMC.AppHost.csproj", "{48155C21-751F-4822-9D30-111BCCA78B62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireMC", "AspireMC\AspireMC.csproj", "{9D2AB814-D7E7-43CD-9ADB-2926A2943815}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{DA61552E-22CC-47C9-A75D-7FA87E9BF2B9}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48155C21-751F-4822-9D30-111BCCA78B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48155C21-751F-4822-9D30-111BCCA78B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48155C21-751F-4822-9D30-111BCCA78B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48155C21-751F-4822-9D30-111BCCA78B62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D2AB814-D7E7-43CD-9ADB-2926A2943815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D2AB814-D7E7-43CD-9ADB-2926A2943815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D2AB814-D7E7-43CD-9ADB-2926A2943815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D2AB814-D7E7-43CD-9ADB-2926A2943815}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
