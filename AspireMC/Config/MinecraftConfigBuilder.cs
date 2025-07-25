@@ -57,7 +57,7 @@ public class MinecraftConfigBuilder
     public MinecraftConfigBuilder WithModrinthModpack(string source)
     {
         _config.Modpack = new ModrinthModpack(source);
-        _config.InstanceType = InstanceType.CurseforgeModpack;
+        _config.InstanceType = InstanceType.ModrinthModpack;
         return this;
     }
 
