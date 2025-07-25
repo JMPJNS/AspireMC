@@ -15,7 +15,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\AspireMC\AspireMC.csproj" />
+      <ProjectReference Include="..\AspireMC\AspireMC.csproj" IsAspireProjectResource="false" />
     </ItemGroup>
 
 </Project>
